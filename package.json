@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "hl7-standard": "^1.0.4",
+    "moment": "^2.29.4"
+  }
+}
